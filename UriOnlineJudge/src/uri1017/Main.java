@@ -17,9 +17,6 @@ public class Main {
 		
 		System.out.printf("%.3f%n", litros);
 		
-		
-		
-		
 		sc.close();
 	}
 
